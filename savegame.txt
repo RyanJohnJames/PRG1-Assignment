@@ -1,0 +1,9 @@
+2
+10
+0
+LET:2,CAU:0,
+[None, None, None, None, None]
+[None, None, None, None, None]
+[{'Cauliflower': 5}, {'Cauliflower': 5}, 'House', None, None]
+[{'Lettuce': 1}, {'Lettuce': 1}, {'Lettuce': 1}, None, None]
+[None, None, None, None, None]
