@@ -2,6 +2,10 @@
 
 This was my Programming one final assignment project, developing a farming simulation game called Sundrop farm.
 
+>[!NOTE]
+> This project was written when I didn't learn Object-Oriented Programming, So no OOP concept was used, for OOP, please check my other project, PRG 2 assignment. 
+
+
 ## Scope
 You have taken out a loan to buy Sundrop Farm, located in scenic Albatross Town. Can you
 make enough money to pay off your loan of $100 in 20 days?
@@ -26,5 +30,3 @@ be passed in as the function parameters
 - Implement and test each feature as it is developed
 - Do all the relevant data validations
 
->[!NOTE]
-> This project was written when I didn't learn Object-Oriented Programming, So no OOP concept was used, for OOP, please check my other project, PRG 2 assignment. 
